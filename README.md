@@ -24,7 +24,4 @@ This project is a prototype and can be extended to
 - Enhance Usability: Create a frontend interface for easier interaction.
 - Support Larger Membership Lists: Explore optimizations for handling millions of members.
 - Integrate with Blockchain Systems: Use smart contracts to manage Merkle roots and proof verification.
-  
-## License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+ 
